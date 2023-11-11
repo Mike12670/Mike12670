@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mike12670
-- 👀 I’m interested in networking code such as server-client connections, configuring routers/switches and other internetworking topics, video game development, 
+- Hi, I’m @Mike12670
+- I’m interested in networking code such as server-client connections, configuring routers/switches and other internetworking topics, video game development, 
 Java, various C languages, web languages, graphic design, and music composing.
-- 💞️ I’m looking to collaborate on video games.
-- 📫 My phone number is 660-522-0055 and my email address is gmf3312@gmail.com.
+- I’m looking to collaborate on video games.
+- My email address is gmf3312@gmail.com.
 
 I have written two video games, one called Starcaster and one called Super Dig Man Deluxe, and they're both fairly small projects that I coded myself; I drew a lot of the
 sprites for both games but got some help from outside sources. I wrote all thge music for both games. I put both games on Steam but have since taken them down due to a lack
