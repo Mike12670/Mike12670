@@ -1,4 +1,4 @@
-- Hi, I’m @Mike12670
+- @Mike12670
 - I’m interested in networking code such as server-client connections, configuring routers/switches and other internetworking topics, video game development, 
 Java, various C languages, web languages, graphic design, and music composing.
 - I’m looking to collaborate on video games.
